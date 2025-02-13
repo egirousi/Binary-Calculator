@@ -33,12 +33,6 @@ python binary_calculator.py
 - **Binary to Decimal:** Enter a binary number and click "Convert" to get its decimal equivalent.
 - **Decimal to Binary:** Enter a decimal number and click "Convert" to get its binary equivalent.
 
-## 📈 Screenshots
-(You can add screenshots of the GUI here)
-
-## 📚 License
-This project is open-source and available under the MIT License.
-
 ## ✨ Contributions
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
